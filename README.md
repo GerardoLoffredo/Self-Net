@@ -11,7 +11,5 @@ Example of resolution enhacement on Spinning Disk Confocal Microscopy
 ![Raw](https://github.com/GerardoLoffredo/Self-Net/blob/main/imgs/input_with_roi_inside.png)
 ![Enhanced](https://github.com/GerardoLoffredo/Self-Net/blob/main/imgs/output_with_roi_inside.png)
 
- <p align="center">
-![Raw ROI](https://github.com/GerardoLoffredo/Self-Net/blob/main/imgs/input_roi.png)
-![Enhanced ROI](https://github.com/GerardoLoffredo/Self-Net/blob/main/imgs/output_roi.png)
-</p>
+
+![Raw ROI](https://github.com/GerardoLoffredo/Self-Net/blob/main/imgs/input_roi.png)!     [Enhanced ROI](https://github.com/GerardoLoffredo/Self-Net/blob/main/imgs/output_roi.png)
