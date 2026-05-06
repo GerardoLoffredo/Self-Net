@@ -13,3 +13,22 @@ Example of resolution enhacement on Spinning Disk Confocal Microscopy
 
 
 ![ROI](https://github.com/GerardoLoffredo/Self-Net/blob/main/imgs/rois.png)
+
+## System Requirements
+
+### General requirements
+
+#### Software
+
+- Python 3.9.23 (tested on)
+- Conda 
+- PyTorch 2.8.0. (tested on)
+- CUDA version 12.8 (tested on)
+- Linux (tested on Ubuntu 25.04)
+- Jupyter Notebook
+- Visual Studio Code
+
+#### Hardware
+
+- CPU or GPU that supports CUDA cuDNN and PyTorch 2.8.0
+- We tested on NVIDIA RTX A4000 (16 GB)
