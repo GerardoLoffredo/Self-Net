@@ -30,5 +30,31 @@ Example of resolution enhacement on Spinning Disk Confocal Microscopy
 
 #### Hardware
 
-- CPU or GPU that supports CUDA cuDNN and PyTorch 2.8.0
+- CPU or GPU that supports CUDA CuDNN and PyTorch 2.8.0
 - We tested on NVIDIA RTX A4000 (16 GB)
+
+## Installation Guide
+
+Create a Conda Environment using the Python version specified above:
+
+`conda create -n selfnet python=3.9.23`
+
+Install PyTorch and other dependencies (we suggest to use *pip*). The main python dependencies include:
+
+- Numpy
+- scikit-image
+- tifffile
+- torch
+- itertools
+- threading
+- opencv-python
+- matplotlib
+- napari
+
+## DEMO
+To test the model we suggest to download a Z-stack from the following link:
+
+[Z-stack](https://drive.google.com/file/d/1yH-gZ6UC3kyU0DvB28rIiPEML44Ueecf/view?usp=sharing)
+
+### Data generation
+
