@@ -4,5 +4,5 @@ This work drew inspiration from the method published in *Nature Light: Science a
 # Self-Net
 Self-Net is a two-stage Self-Supervised DL model that aims to improve the resolution isotropy for fluorescence microscopy Z-stacks with fast training and inference speed as well as high reconstruction fidelity. This repository provides a Jupyter Notebook to train and test the network, with a few minor changes to the original code created by the authors.
 
-If you encounter any errors during execution, please refer to their source code **https://zenodo.org/records/7882519**.
+If you encounter any issues during execution, please refer to their source code **https://zenodo.org/records/7882519**.
 
