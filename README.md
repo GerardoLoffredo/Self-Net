@@ -6,3 +6,9 @@ Self-Net is a two-stage Self-Supervised DL model that aims to improve the resolu
 
 If you encounter any issues during execution, please refer to their source code **https://zenodo.org/records/7882519**.
 
+Example of resolution enhacement on Spinning Disk Confocal Microscopy
+![Raw](https://github.com/GerardoLoffredo/Self-Net/blob/main/imgs/input_with_roi.png)
+![Enhanced](https://github.com/GerardoLoffredo/Self-Net/blob/main/imgs/output_with_roi.png)
+
+![Raw ROI](https://github.com/GerardoLoffredo/Self-Net/blob/main/imgs/input_roi.png)
+![Enhanced ROI](https://github.com/GerardoLoffredo/Self-Net/blob/main/imgs/output_roi.png)
